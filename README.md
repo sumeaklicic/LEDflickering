@@ -4,7 +4,7 @@ Flashing leds using an Arduino and a few basic lines of code to light up the led
 First, we'll go over some basic information you need to know about diodes.
 Materials needed for the project:
 
--Arduino UNO board
+- Arduino UNO board
 - LEDs
 - The resistors
   
