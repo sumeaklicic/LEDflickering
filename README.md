@@ -3,14 +3,19 @@ Flashing leds using an Arduino and a few basic lines of code to light up the led
 
 First, we'll go over some basic information you need to know about diodes.
 Materials needed for the project:
+
 -Arduino UNO board
 - LEDs
 - The resistors
+  
 
   ![image](https://github.com/user-attachments/assets/59a2fe98-b0e4-4699-88f2-a8b8f5465415)
+  
 In the picture we see the material and the method of joining it.
 
+
 A diode has its two parts, the anode and the cathode.
+
 ![image](https://github.com/user-attachments/assets/0e29216a-d3ce-44ba-9ff1-dd4194f30e7d)
 
 The anode is the positive part and we connect the resistor to it. The resistor is used to limit the current through the LED and protect it from damage. We connect the other side of the connected resistor to the desired pin on our board.
